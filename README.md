@@ -1,7 +1,7 @@
 WazeUSA - Terms of Use
--------
-*Revision 1*
-*Published: 5/13/2017*
+----------
+
+*Revision 1, 5/13/2017*
 
 *These terms apply to the use of the WazeUSA organization on GitHub.  This document must be stored in a location under WazeUSA that is accessible to view by all members and non-members.  Updates to this document must be done according to the procedure listed in the Organization Owners section.*
 
