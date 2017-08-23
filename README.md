@@ -1,15 +1,15 @@
-WazeUSA - Terms of Use
+WazeDev - Terms of Use
 ----------
 
 *Revision 1, 5/13/2017*
 
-*These terms apply to the use of the WazeUSA organization on GitHub.  This document must be stored in a location under WazeUSA that is accessible to view by all members and non-members.  Updates to this document must be done according to the procedure listed in the Organization Owners section.*
+*These terms apply to the use of the WazeDev organization on GitHub.  This document must be stored in a location under WazeDev that is accessible to view by all members and non-members.  Updates to this document must be done according to the procedure listed in the Organization Owners section.*
 
 ----------
 
 ### Intent of the Organization
 
-The WazeUSA organization is intended to host scripts and any other tools that assist Waze map editors with the tasks involved in map editing, according to the rules and guidelines set forth by Waze staff and community Champs.  In the event the author is no longer able or willing to maintain a script, he or she can be assured it will continue to be updated and improved for as long as the script is useful to editors.
+The WazeDev organization is intended to host scripts and any other tools that assist Waze map editors with the tasks involved in map editing, according to the rules and guidelines set forth by Waze staff and community Champs.  In the event the author is no longer able or willing to maintain a script, he or she can be assured it will continue to be updated and improved for as long as the script is useful to editors.
 
 ### Organization Owners
 
@@ -22,7 +22,7 @@ By accepting an **Organization Owner** role, you agree to the terms in this sect
 
 	* **All Repository Admin(s) agree to turn the repository over to the care of the Organization Owners.** Organization Owners may *only* assign a single Interim Repository Admin.  At least three Organization Owners must agree on the Interim Repository Admin before that person is assigned the Admin role for the repository.
 
-	* **The Organization Owners unanimously agree some or all content within a repo does not meet the intent of the WazeUSA organization.** See the Repository Admins section for details of allowed actions.
+	* **The Organization Owners unanimously agree some or all content within a repo does not meet the intent of the WazeDev organization.** See the Repository Admins section for details of allowed actions.
 	
 3. Before performing any actions on a repository that the Repository Admins cannot perform themselves, you must obtain approval from all Repository Admins.
 
@@ -43,14 +43,14 @@ By accepting an **Organization Owner** role, you agree to the terms in this sect
 
 By accepting a **Repository Admin** role, you agree to the terms in this section.
 
-1. You agree that in the event the Organization Owners unanimously determine that any content in the repository does not meet the intent of the organization, and should therefore not be hosted in WazeUSA, you will do one of the following within 3 days of being notified:
+1. You agree that in the event the Organization Owners unanimously determine that any content in the repository does not meet the intent of the organization, and should therefore not be hosted in WazeDev, you will do one of the following within 3 days of being notified:
 	* Delete any offending content specified by the Organization Owners.
 
 	* Move the repository to a personal GitHub account or to a different organization.
 
 	* Delete the entire repository. 
 
-	If the content remains after 3 days, the Organization Owners may push a commit to temporarily wipe the content of the repository.  You may still move the repo off of WazeUSA and revert the commit to restore the content.
+	If the content remains after 3 days, the Organization Owners may push a commit to temporarily wipe the content of the repository.  You may still move the repo off of WazeDev and revert the commit to restore the content.
 
 2. You agree that Organization Owners may assign an Interim Repository Admin in the event that no Repository Admin can be contacted via any of the standard Waze community communication methods (e.g. forum direct message, Google Hangout, Slack) for a period of at least 30 days.  However, you may resume your Repository Admin role at any time.
 
