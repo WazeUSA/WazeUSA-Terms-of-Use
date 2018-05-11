@@ -1,7 +1,7 @@
 WazeDev - Terms of Use
 ----------
 
-*Revision 1, 5/13/2017*
+*Revision 2, 5/11/2018*
 
 *These terms apply to the use of the WazeDev organization on GitHub.  This document must be stored in a location under WazeDev that is accessible to view by all members and non-members.  Updates to this document must be done according to the procedure listed in the Organization Owners section.*
 
@@ -26,9 +26,9 @@ By accepting an **Organization Owner** role, you agree to the terms in this sect
 	
 3. Before performing any actions on a repository that the Repository Admins cannot perform themselves, you must obtain approval from all Repository Admins.
 
-4. You may not add additional Organization Owners if there are already four (4).
+4. You may not add additional Organization Owners if there are already five (5).
 
-5. If there are less than four (4) Organization Owners at any time, the remaining Organization Owner(s) must, as soon as possible, vote on new owners to bring the total to back to four.  In the event of a tie, an online coin flip may be used.
+5. If there are fewer Organization Owners than the number listed above at any time, the remaining Organization Owner(s) must, as soon as possible, vote on new owners to bring the total to the number listed above.  In the event of a tie, an online coin flip may be used.
 
 6. You may only remove or change the role of another Organization Owner under the following circumstances:
 	* **There is clear evidence of at least one intentional violation of these terms.**  The remaining Organization Owners must unanimously agree on the role change.
@@ -76,3 +76,7 @@ By accepting an **Interim Repository Admin** role, you agree to the terms in thi
 
 Organization Members without Admin or Owner roles have no specific rights granted or denied by this document.
 
+---
+#### Revisions
+* Revision 2, 5/11/2018:  Updated owner count from 4 to 5 (approved by all current owners)
+* Revision 1, 5/13/2017:  First release
